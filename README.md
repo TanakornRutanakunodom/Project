@@ -2,10 +2,15 @@
 
 ## My Skills
 -Spreasheets
+
 -SQL Databases
+
 -R Programming
+
 -Python Programming
+
 -Dashboard
+
 -Stats & ML
 
 ## My Portfolios
